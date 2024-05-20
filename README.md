@@ -72,7 +72,7 @@ cd seu/diretorio
 colcon build
 ```
 
-### Fonte o Ambiente
+### Source o Ambiente
 
 Source o ambiente ROS 2 em ambos, robô e computador:
 
